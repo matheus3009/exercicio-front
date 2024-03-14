@@ -24,6 +24,16 @@ h2 {
     width: 250px;
 
 }
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:bold ;
+    border: solid black;
+    background-color: black;
+    color: white;
+    border-radius: 14px;
+    border-width: 4px;
+    width: 250px;
+}
 
 hr {
 width: 100%;
@@ -36,5 +46,13 @@ border: 0px;
     padding: 8px;
     border-radius: 4px;
     margin-bottom: 30px;
+}
+
+a {color: blue ;}
+
+#grande {
+    background-color: gray;
+    margin: 20px;
+    border-radius: 200px;
 }
 
