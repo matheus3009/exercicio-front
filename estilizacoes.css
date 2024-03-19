@@ -20,7 +20,7 @@ h2 {
     background-color: black;
     color: white;
     border-radius: 14px;
-    border-width: 4px;
+    border-width: 5px;
     width: 250px;
 
 }
@@ -46,6 +46,7 @@ border: 0px;
     padding: 8px;
     border-radius: 4px;
     margin-bottom: 30px;
+    
 }
 
 a {color: blue ;}
@@ -53,6 +54,17 @@ a {color: blue ;}
 #grande {
     background-color: gray;
     margin: 20px;
-    border-radius: 200px;
+    border:black solid;
 }
 
+#lista {
+    background-color: grey;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px
+
+}
+
+#util{
+    
+}
