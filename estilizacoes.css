@@ -1,6 +1,6 @@
 body {
     background-color: rgb(248, 248, 248);
-    font-family:sans-serif;
+    font-family: sans-serif;
     font-size: large;
 }
 
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight:bold ;
+    font-weight: bold;
     border: solid black;
     background-color: black;
     color: white;
@@ -24,9 +24,10 @@ h2 {
     width: 250px;
 
 }
+
 h3 {
     font-family: Arial, Helvetica, sans-serif;
-    font-weight:bold ;
+    font-weight: bold;
     border: solid black;
     background-color: black;
     color: white;
@@ -36,9 +37,9 @@ h3 {
 }
 
 hr {
-width: 100%;
-height: 2px;
-border: 0px;
+    width: 100%;
+    height: 2px;
+    border: 0px;
 }
 
 .destaque {
@@ -46,15 +47,17 @@ border: 0px;
     padding: 8px;
     border-radius: 4px;
     margin-bottom: 30px;
-    
+
 }
 
-a {color: blue ;}
+a {
+    color: blue;
+}
 
 #grande {
     background-color: gray;
     margin: 20px;
-    border:black solid;
+    border: black solid;
 }
 
 #lista {
@@ -62,9 +65,12 @@ a {color: blue ;}
     margin: 20px;
     padding: 20px;
     border-radius: 20px
-
 }
 
-#util{
-    
+#util {
+    text-align: center;
+    border: black solid;
+    box-sizing: border-box;
+    margin: auto;
+    width: 50%;
 }
